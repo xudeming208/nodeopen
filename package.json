@@ -1,17 +1,18 @@
 {
   "name": "nodeopen",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "open url in the user's preferred application",
   "main": "lib/index.js",
   "scripts": {
-    "build": "babel src -d lib"
+    "build": "babel src -d lib",
+    "watch": "npm run build -- -w"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xudeming208/nodeopen.git"
   },
   "engines": {
-    "node": ">= 0.6.0"
+    "node": ">= 6.0.0"
   },
   "keywords": [
     "open",
@@ -20,7 +21,7 @@
     "browser"
   ],
   "author": "xudeming208",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/xudeming208/nodeopen/issues"
   },
