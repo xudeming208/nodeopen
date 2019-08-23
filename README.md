@@ -1,4 +1,10 @@
-# nodeopen
+<h1 align="center">
+  nodeopen
+</h1>
+<br>
+<p align="center">
+  <a href="https://travis-ci.org/xudeming208/fe-logs"><img src="https://travis-ci.org/xudeming208/fe-logs.svg?branch=master" alt="Travis Status"></a>
+</p>
 
 ## 介绍
 nodejs打开浏览器

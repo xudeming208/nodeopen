@@ -1,6 +1,6 @@
 {
   "name": "nodeopen",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "open url in the user's preferred application",
   "main": "lib/index.js",
   "scripts": {
