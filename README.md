@@ -3,7 +3,7 @@
 </h1>
 <br>
 <p align="center">
-  <a href="https://travis-ci.org/xudeming208/fe-logs"><img src="https://travis-ci.org/xudeming208/fe-logs.svg?branch=master" alt="Travis Status"></a>
+  <a href="https://travis-ci.org/xudeming208/nodeopen"><img src="https://travis-ci.org/xudeming208/nodeopen.svg?branch=master" alt="Travis Status"></a>
 </p>
 
 ## 介绍
